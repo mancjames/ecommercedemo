@@ -10,7 +10,7 @@ const Layout = ({ children }) => {
             <title>Ecommerce Store</title>
         </Head>
         <header>
-            <NavBar />
+           <NavBar />
         </header>
         <main className="main-container">
             {children}
